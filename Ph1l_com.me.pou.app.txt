@@ -1,0 +1,24 @@
+[BEGIN]
+Pou_1.4.112
+
+Patch By Ph1l. 
+Description:-
+Click on the button "follow us on Twitter" after this return back to gain a lot of coin.
+
+How to use:-
+-Install the app 
+-patch It
+-unistall the original one
+-install the patch
+-install the modded one
+-enjoy :)
+
+
+
+[CLASSES]
+{"classes_name":"classes.dex"}
+
+{"original":"C2 C0 10 0A 49 1C 3D CD 93 CA 43 F5 9E F6 02 E8 0F ED C0 90 23 2B BE 38"}
+{"replaced":"0B C2 4C 77 10 DB 4B 84 B7 8F F7 DF 24 9F 1B B9 FF C9 44 03 FC BE 7A 77"}
+
+[END]
